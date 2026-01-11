@@ -1,0 +1,24 @@
+.lets-chat {
+    display: flex;
+    flex-direction: column;
+    width: 267px;
+    border-radius: 12px;
+    padding: 12px;
+    background-color: #000;
+    box-sizing: border-box;
+    gap: 11px;
+}
+
+.lets-chat__header-text {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 150%;
+    color: #fff;
+}
+
+.lets-chat__mail {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #DDDDDD;
+}
